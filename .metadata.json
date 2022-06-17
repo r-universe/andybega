@@ -1,0 +1,10 @@
+[
+  {
+    "package": "spduration",
+    "oncran": true
+  },
+  {
+    "package": "states",
+    "oncran": true
+  }
+]

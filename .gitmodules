@@ -3,3 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "spduration"]
+	path = spduration
+	url = https://github.com/andybega/spduration
+	shallow = true
+	registered = true
+[submodule "states"]
+	path = states
+	url = https://github.com/andybega/states
+	shallow = true
+	registered = true
